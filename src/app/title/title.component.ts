@@ -11,14 +11,7 @@ export class TitleComponent implements OnInit {
   
   title = "Magazine";
 
-  storyTitle = "How to design a bike lane";
-
-  storyBody = "Creat obvious and clearly marked pathways.\n" + 
-  "Devise routes with destinations:\n"+
-  "Barks\n"+
-  "Schools\n"+
-  "Commercial corridors";
-
+  
   ngOnInit(): void {
   }
 
